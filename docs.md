@@ -1,4 +1,4 @@
-This documentation is vlablalala.
+This documentation is normal.
 
 Not safe for adults.
 
